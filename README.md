@@ -100,13 +100,9 @@ install.packages(c(
 2. Open `2501report_ShenHongshan_Version2.Rmd` in RStudio.
 3. Knit the document to generate the full report (HTML, PDF, or Word).
 
----
-
 ## 📬 Contact
 For questions or collaborations, please contact:  
 **Shen Hongshan** – sunnie22shen@connect.hku.hk
-
----
 
 ## 📚 References
 - OSMI Mental Health in Tech Survey – Kaggle
